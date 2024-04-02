@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding:20px;
+  /*  background-color: peachpuff;*/
+  font-family: Roboto, Arial, sans-serif;
+}
+.hi{
+    margin: 10px;
+}
